@@ -1,0 +1,17 @@
+Project info :com.akbank.test.Release
+---Developers---
+Developer: 1 Name: Cem OZAN
+Developer: 2 Name: Abdullah Yavuzyigitoglu
+Developer: 3 Name: Gokhan Cacan
+Release Date: 23.06.2022
+---Dependencies---Dependency: junit.junit
+Dependency: mysql.mysql-connector-java
+---Plugins---
+Plugin: org.apache.maven.plugins:maven-site-plugin:maven-plugin:3.7.1:runtime
+Plugin: org.apache.maven.plugins:maven-clean-plugin:maven-plugin:3.1.0:runtime
+Plugin: org.apache.maven.plugins:maven-jar-plugin:maven-plugin:3.0.2:runtime
+Plugin: org.apache.maven.plugins:maven-compiler-plugin:maven-plugin:3.8.0:runtime
+Plugin: org.apache.maven.plugins:maven-surefire-plugin:maven-plugin:2.22.1:runtime
+Plugin: org.apache.maven.plugins:maven-install-plugin:maven-plugin:2.5.2:runtime
+Plugin: org.apache.maven.plugins:maven-resources-plugin:maven-plugin:3.0.2:runtime
+Plugin: org.apache.maven.plugins:maven-deploy-plugin:maven-plugin:2.8.2:runtime

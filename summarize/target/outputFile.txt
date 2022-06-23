@@ -1,0 +1,20 @@
+Project info :com.akbank.hw1.summarize-maven-plugin.0.0.1-SNAPSHOT
+---Developers---
+Developer: 1 Name: Cem OZAN
+Developer: 2 Name: Abdullah Yavuzyigitoglu
+Developer: 3 Name: Gokhan Cacan
+Release Date: 23.06.2022
+---Dependencies---Dependency: org.apache.maven.maven-plugin-api
+Dependency: junit.junit
+Dependency: org.apache.maven.plugin-tools.maven-plugin-annotations
+Dependency: org.apache.maven.maven-project
+---Plugins---
+Plugin: org.apache.maven.plugins:maven-install-plugin:maven-plugin:2.4:runtime
+Plugin: org.apache.maven.plugins:maven-deploy-plugin:maven-plugin:2.7:runtime
+Plugin: org.apache.maven.plugins:maven-jar-plugin:maven-plugin:2.4:runtime
+Plugin: org.apache.maven.plugins:maven-compiler-plugin:maven-plugin:3.1:runtime
+Plugin: org.apache.maven.plugins:maven-surefire-plugin:maven-plugin:2.12.4:runtime
+Plugin: org.apache.maven.plugins:maven-site-plugin:maven-plugin:3.3:runtime
+Plugin: org.apache.maven.plugins:maven-clean-plugin:maven-plugin:2.5:runtime
+Plugin: org.apache.maven.plugins:maven-resources-plugin:maven-plugin:2.6:runtime
+Plugin: org.apache.maven.plugins:maven-plugin-plugin:maven-plugin:3.2:runtime
